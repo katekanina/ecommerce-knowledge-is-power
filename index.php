@@ -5,7 +5,7 @@ require (MYSQL);
 include ('./includes/header.html');
 
 ?><h3>Welcome</h3>
-	<p class="lead">Welcome to Knowledge is Power,
+	<p class="lead">Welcome to Knowledge is Power, but it's not always true
 	a site dedicated to keeping you up to date on the Web security 
 	and programming information you need to know. Blah, blah, blah. Yadda, yadda, yadda.</p>
 	
